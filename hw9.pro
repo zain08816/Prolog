@@ -1,11 +1,3 @@
-% CS 314 Fall 2020, HW9
-% Due: December 10, 10:00 PM (ET)
-%
-% Submissions received up to six hours past the deadline will be accepted with reduced
-% scores.
-%
-% For this assignment, submit a file named hw9.pl or hw9.pro containing the definitions
-% given described below. You may use this file directly, or create your own.
 %
 % Each relation is worth 10 points. You will receive 9 points if your code works correctly
 % in the specified mode, and an additional 1 point if your code produces answers for the
